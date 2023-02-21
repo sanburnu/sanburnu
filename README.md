@@ -1,18 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm Anıl from Turkey. I'm a self taught programmer. I enjoy learning new languages and frameworks like Django and React. I like to work on backend and databases.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanburnu&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**sanburnu/sanburnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+* Django
+* Flask
+* React
+* HTML/CSS/Javascript
